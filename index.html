@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StealFeed — Zora's Beauty Finds</title>
+<meta name="description" content="Affordable beauty finds that actually work. Curated by Zora.">
+<link rel="icon" href="img/logo.png" type="image/png">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:linear-gradient(180deg,#fdf2f0 0%,#fce4ec 20%,#f8e8e0 50%,#fef6f2 80%,#fdf2f0 100%);min-height:100vh;font-family:'Inter',sans-serif}
+a{text-decoration:none;color:inherit}
+.lp{max-width:480px;margin:0 auto;padding:0 0 20px}
+.lph{text-align:center;padding:36px 24px 8px}
+.av{width:90px;height:90px;border-radius:50%;margin:0 auto 12px;overflow:hidden;box-shadow:0 4px 20px rgba(212,160,165,0.35);border:3px solid rgba(255,255,255,0.7)}
+.av img{width:100%;height:100%;object-fit:cover}
+.nm{font-family:'Playfair Display',serif;font-size:22px;font-weight:700;color:#3d2c2e}
+.bio{font-size:13px;color:#7a5a5e;line-height:1.5;max-width:320px;margin:6px auto 0}
+.soc{display:flex;justify-content:center;gap:12px;margin-top:14px}
+.si{width:34px;height:34px;border-radius:50%;background:rgba(61,44,46,0.08);display:flex;align-items:center;justify-content:center;transition:background 0.2s}
+.si:hover{background:rgba(61,44,46,0.15)}
+.si svg{width:16px;height:16px;fill:#5a3d40}
+.dv{width:50px;height:1px;background:linear-gradient(90deg,transparent,#d4a0a5,transparent);margin:20px auto}
+.st{font-family:'Playfair Display',serif;font-size:16px;color:#5a3d40;text-align:center;margin-bottom:14px}
+.ss{font-size:11px;color:#9a7a7e;text-align:center;margin-top:-10px;margin-bottom:16px}
+.prs{padding:0 16px;display:flex;flex-direction:column;gap:10px}
+.pr{background:rgba(255,255,255,0.65);backdrop-filter:blur(10px);border-radius:12px;padding:14px;display:flex;align-items:center;gap:12px;border:1px solid rgba(212,160,165,0.15);transition:transform 0.2s,box-shadow 0.2s;cursor:pointer}
+.pr:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(212,160,165,0.2)}
+.pi{width:52px;height:52px;border-radius:10px;background:linear-gradient(135deg,#f0d0d4,#e8c0c4);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:22px}
+.pif{flex:1;min-width:0}
+.pn{font-size:13px;font-weight:600;color:#3d2c2e;margin-bottom:2px}
+.pd{font-size:11px;color:#7a5a5e}
+.pb{font-size:11px;background:linear-gradient(135deg,#e8b4b8,#d4a0a5);color:#fff;padding:4px 10px;border-radius:10px;font-weight:600;white-space:nowrap}
+.nd{display:inline-block;width:6px;height:6px;background:#d4a0a5;border-radius:50%;margin-left:6px;vertical-align:middle}
+.bus{padding:0 16px;display:flex;flex-direction:column;gap:10px;margin-bottom:20px}
+.bu{background:rgba(255,255,255,0.5);backdrop-filter:blur(10px);border-radius:14px;padding:18px;border:1px solid rgba(212,160,165,0.2);cursor:pointer;transition:transform 0.2s,box-shadow 0.2s;display:block}
+.bu:hover{transform:translateY(-2px);box-shadow:0 6px 24px rgba(212,160,165,0.2)}
+.bh{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.be{font-size:22px;margin-right:8px}
+.bn{font-family:'Playfair Display',serif;font-size:15px;font-weight:600;color:#3d2c2e;flex:1}
+.bc{font-size:10px;color:#9a7a7e;background:rgba(212,160,165,0.15);padding:3px 8px;border-radius:8px;font-weight:500}
+.bis{display:flex;gap:6px;flex-wrap:wrap}
+.bi{font-size:10px;color:#5a3d40;background:rgba(255,255,255,0.6);padding:3px 8px;border-radius:6px;border:1px solid rgba(212,160,165,0.15)}
+.bct{display:block;text-align:center;margin-top:12px;font-size:11px;font-weight:600;color:#d4a0a5;letter-spacing:0.5px}
+.ft{text-align:center;padding:20px}
+.ft-logo{width:32px;height:32px;margin:0 auto 4px;opacity:0.4}
+.ft-logo img{width:100%;height:100%}
+.ftt{font-size:10px;color:#bda0a4;letter-spacing:1px}
+@media(min-width:768px){
+.lp{max-width:720px}
+.prs{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.bus{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.st{font-size:18px;margin-bottom:16px}
+.nm{font-size:28px}
+.bio{font-size:14px;max-width:440px}
+.lph{padding:44px 40px 8px}
+}
+</style>
+</head>
+<body>
+<div class="lp">
+<div class="lph">
+<div class="av"><img src="img/avatar.jpg" alt="Zora"></div>
+<div class="nm">Zora</div>
+<div class="bio">skincare obsessed. affordable beauty finds that actually work.</div>
+<div class="soc">
+<a href="https://www.tiktok.com/@stealfeed" target="_blank" rel="noopener" class="si"><svg viewBox="0 0 24 24"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1v-3.5a6.37 6.37 0 0 0-.79-.05A6.34 6.34 0 0 0 3.15 15a6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.34-6.34V8.63a8.23 8.23 0 0 0 4.76 1.52V6.7c-.35 0-.69-.04-1-.1Z"/></svg></a>
+<a href="https://www.instagram.com/steal.feed/" target="_blank" rel="noopener" class="si"><svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z"/></svg></a>
+<a href="https://www.youtube.com/@StealFeed" target="_blank" rel="noopener" class="si"><svg viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg></a>
+</div>
+</div>
+<div class="dv"></div>
+<div class="st">Latest Finds</div>
+<div class="prs">
+<a href="https://www.amazon.com/dp/B0D972XW2D?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">🧴</div>
+<div class="pif"><div class="pn">salt.xo Grapefruit Sensitive Yoni Gel Wash<span class="nd"></span></div></div>
+<div class="pb">$20.50</div></a>
+<a href="https://www.amazon.com/dp/B0D22GKWJ8?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">💅</div>
+<div class="pif"><div class="pn">UNA GELLA Lamp-Free Semi Solid Nail Glue for…<span class="nd"></span></div></div>
+<div class="pb">$8.49</div></a>
+<a href="https://www.amazon.com/dp/B08GSTPT8Y?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">🧽</div>
+<div class="pif"><div class="pn">AOA Studio Collection makeup Sponge Set…<span class="nd"></span></div></div>
+<div class="pb">$9.95</div></a>
+<a href="https://www.amazon.com/dp/B0C4YX5F79?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">🧴</div>
+<div class="pif"><div class="pn">VALITIC Neck Cream for Tightening and…</div></div>
+<div class="pb">$18.99</div></a>
+<a href="https://www.amazon.com/dp/B00XTTFI6K?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">💇</div>
+<div class="pif"><div class="pn">Seven Minerals Organic Aloe Vera Gel from…</div></div>
+<div class="pb">$19.95</div></a>
+<a href="https://www.amazon.com/dp/B01MSSDEPK?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">🧴</div>
+<div class="pif"><div class="pn">CeraVe Hydrating Facial Cleanser</div></div>
+<div class="pb">$19.99</div></a>
+<a href="https://www.amazon.com/dp/B0B68VH998?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">🧴</div>
+<div class="pif"><div class="pn">The INKEY List Hyaluronic Acid Cleanser</div></div>
+<div class="pb">$13.00</div></a>
+<a href="https://www.amazon.com/dp/B0FJ99PQXY?tag=stealfeed-20" class="pr" target="_blank" rel="noopener">
+<div class="pi">👁️</div>
+<div class="pif"><div class="pn">Mrs. MEYER&#x27;S CLEAN DAY Hand Soap</div></div>
+<div class="pb">$9.66</div></a>
+</div>
+
+<div class="ft">
+<div class="ft-logo"><img src="img/logo.png" alt="StealFeed"></div>
+<div class="ftt">stealfeed</div>
+</div>
+</div>
+</body>
+</html>
