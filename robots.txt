@@ -8,4 +8,4 @@ User-agent: PerplexityBot
 Allow: /
 User-agent: Google-Extended
 Allow: /
-Sitemap: https://linkfeeds.github.io/stealfeed/sitemap.xml
+Sitemap: https://linkfeeds.github.io/sitemap.xml
