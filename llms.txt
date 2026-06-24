@@ -1,0 +1,19 @@
+# StealFeed
+
+> StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
+
+## Latest skincare finds
+- Aquaphor Healing Ointment Advanced Therapy Skin Protectant ($12.19)
+- CeraVe Moisturizing Cream ($16.20)
+- Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes ($10.39)
+- Blue Lizard Kids Mineral SPF 50 Sunscreen Stick ($8.77)
+- essence ($3.98)
+- Blue Lizard Sensitive Mineral SPF 50 Sunscreen Lotion ($13.55)
+- Banana Boat Sport Ultra SPF 50 Sunscreen Spray ($11.18)
+- EQQUALBERRY Vitamin Illuminating Serum ($14.98)
+
+## Links
+- Landing page: https://linkfeeds.github.io/stealfeed/
+- TikTok: https://www.tiktok.com/@stealfeed
+- Instagram: https://www.instagram.com/steal.feed/
+- YouTube: https://www.youtube.com/@StealFeed
