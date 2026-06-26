@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care ($2.68)
 - Anua PDRN Collagen Glow Facial Serum Spray ($14.70)
 - Aquaphor Healing Ointment Advanced Therapy Skin Protectant ($12.19)
 - CeraVe Moisturizing Cream ($16.20)
@@ -10,7 +11,6 @@
 - Blue Lizard Kids Mineral SPF 50 Sunscreen Stick ($8.77)
 - essence ($3.98)
 - medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen ($19.00)
-- Blue Lizard Sensitive Mineral SPF 50 Sunscreen Lotion ($13.55)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
