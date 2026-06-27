@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask ($19.00)
 - Aquaphor Healing Ointment Advanced Therapy Skin Protectant ($12.19)
 - Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care ($2.68)
 - Anua PDRN Collagen Glow Facial Serum Spray ($14.70)
@@ -10,7 +11,6 @@
 - Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes ($10.39)
 - Blue Lizard Kids Mineral SPF 50 Sunscreen Stick ($8.77)
 - essence ($3.98)
-- medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen ($19.00)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
