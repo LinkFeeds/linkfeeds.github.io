@@ -3,14 +3,14 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct ($12.99)
+- PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash ($10.67)
+- medicube PDRN Pink Collagen Volume Multi Balm Stick ()
 - CeraVe Moisturizing Cream ($16.20)
 - Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid ($25.90)
 - Mighty Patch Original Patch from Hero Cosmetics - #1 Hydrocolloid Acne Pimple Patches for Face ($10.39)
 - La Roche-Posay Toleriane Purifying Foaming Facial Cleanser ()
-- PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash ($10.67)
 - The Ordinary Glycolic Acid 7% Exfoliating Toner ()
-- The Ordinary Niacinamide 10% + Zinc 1% ($6.00)
-- medicube PDRN Pink Peptide Serum with Salmon DNA ($18.90)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
