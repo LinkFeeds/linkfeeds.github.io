@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube Collagen Jelly Cream- Niacinamide & Freeze-Dried Hydrolyzed Collagen ($14.90)
 - Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer ($68.00)
 - Blue Lizard Sensitive Mineral SPF 50 Sunscreen Lotion ($14.69)
 - celimax The Vita A Retinal Shot Tightening Booster ($17.79)
@@ -10,7 +11,6 @@
 - PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash ($10.67)
 - medicube PDRN Pink Collagen Volume Multi Balm Stick ()
 - CeraVe Moisturizing Cream ($16.20)
-- Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid ($25.90)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
