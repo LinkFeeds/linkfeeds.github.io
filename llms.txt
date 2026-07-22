@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Toleriane Double Repair UV SPF Moisturizer for Face ()
 - MEDITHERAPY Retinal Skin Booster Serum 5.07 fl oz ($19.99)
 - PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash ($10.67)
 - medicube Collagen Jelly Cream- Niacinamide & Freeze-Dried Hydrolyzed Collagen ($14.90)
@@ -10,7 +11,6 @@
 - Blue Lizard Sensitive Mineral SPF 50 Sunscreen Lotion ($14.69)
 - celimax The Vita A Retinal Shot Tightening Booster ($17.79)
 - Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct ($12.99)
-- medicube PDRN Pink Collagen Volume Multi Balm Stick ()
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
