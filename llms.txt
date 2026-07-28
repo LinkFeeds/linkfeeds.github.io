@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- The Ordinary Glycolic Acid 7% Exfoliating Toner ($1.58)
 - La Roche-Posay Toleriane Hydrating Gentle Face Cleanser ($19.99)
 - medicube Toner Pads Zero Pore Pad 2.0 ($18.90)
 - Toleriane Double Repair UV SPF Moisturizer for Face ()
@@ -10,7 +11,6 @@
 - PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash ($10.67)
 - medicube Collagen Jelly Cream- Niacinamide & Freeze-Dried Hydrolyzed Collagen ($14.90)
 - Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer ($68.00)
-- Blue Lizard Sensitive Mineral SPF 50 Sunscreen Lotion ($14.69)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
