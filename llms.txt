@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube Toner Pads Zero Pore Pad 2.0 ()
 - Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer ($68.00)
 - Differin Acne Treatment Gel, 30 Day Supply, Retinoid Treatment for Face with 0.1% Adapalene, Gentle Skin Care for Acne Prone Sensitive Skin, 15g Tube (Packaging May Vary) ($10.49)
 - La Roche-Posay Toleriane Double Repair Face, 2.5oz ($24.99)
@@ -10,7 +11,6 @@
 - medicube Collagen Jelly Cream- Niacinamide & Freeze-Dried Hydrolyzed Collagen - Boosts skin's barrier hydration and gives 24h Glow & Lifted Look - Korean skincare (1.69 Fl Oz (Pack of 1)) ($14.90)
 - Mrs. Meyer's Clean Day ()
 - La Roche-Posay Effaclar Medicated Acne Face Wash with Salicylic Acid, 6.8oz ($14.99)
-- Toleriane Double Repair Face Moisturizer ()
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
