@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- grace & stella Award Winning Eye Patches for Puffy Eyes ($23.95)
 - medicube PDRN Pink Collagen Volume Multi Balm Stick ($19.90)
 - Differin Acne Retinoid Treatment Gel, 0.1% Adapalene, 45g Pump ($23.97)
 - medicube Toner Pads Zero Pore Pad 2.0 ()
@@ -10,7 +11,6 @@
 - Differin Acne Treatment Gel, 30 Day Supply, Retinoid Treatment for Face with 0.1% Adapalene, Gentle Skin Care for Acne Prone Sensitive Skin, 15g Tube (Packaging May Vary) ($10.49)
 - La Roche-Posay Toleriane Double Repair Face, 2.5oz ($24.99)
 - Banana Boat Sport Ultra SPF 50 Sunscreen Spray ($13.97)
-- medicube Collagen Jelly Cream- Niacinamide & Freeze-Dried Hydrolyzed Collagen - Boosts skin's barrier hydration and gives 24h Glow & Lifted Look - Korean skincare (1.69 Fl Oz (Pack of 1)) ($14.90)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
