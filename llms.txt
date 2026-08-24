@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Clean Skin Club Clean Towels XL® ($17.95)
 - Mario Badescu Drying Lotion ($15.30)
 - EltaMD UV Clear Face Sunscreen SPF ($45.00)
 - grace & stella Award Winning Eye Patches for Puffy Eyes ($23.95)
@@ -10,7 +11,6 @@
 - Differin Acne Retinoid Treatment Gel, 0.1% Adapalene, 45g Pump ($23.97)
 - medicube Toner Pads Zero Pore Pad 2.0 ()
 - Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer ($68.00)
-- Differin Acne Treatment Gel, 30 Day Supply, Retinoid Treatment for Face with 0.1% Adapalene, Gentle Skin Care for Acne Prone Sensitive Skin, 15g Tube (Packaging May Vary) ($10.49)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
