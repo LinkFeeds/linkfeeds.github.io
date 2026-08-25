@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- La Roche-Posay Toleriane Hydrating Gentle Facial Cleanser, 13.52oz ($19.99)
 - Clean Skin Club Clean Towels XL® ($17.95)
 - Mario Badescu Drying Lotion ($15.30)
 - EltaMD UV Clear Face Sunscreen SPF ($45.00)
@@ -10,7 +11,6 @@
 - medicube PDRN Pink Collagen Volume Multi Balm Stick ($19.90)
 - Differin Acne Retinoid Treatment Gel, 0.1% Adapalene, 45g Pump ($23.97)
 - medicube Toner Pads Zero Pore Pad 2.0 ()
-- Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer ($68.00)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
