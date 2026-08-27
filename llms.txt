@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Neutrogena Beach Defense Sunscreen Spray SPF 70 Broad Spectrum UVA UVB Protection Lightweight Water Resistant up to 80 Minutes Beach-Strength Sun Protection for Whole Family ($8.99)
 - La Roche-Posay Toleriane Hydrating Gentle Facial Cleanser, 13.52oz ($19.99)
 - Clean Skin Club Clean Towels XL® ($17.95)
 - Mario Badescu Drying Lotion ($15.30)
@@ -10,7 +11,6 @@
 - grace & stella Award Winning Eye Patches for Puffy Eyes ($23.95)
 - medicube PDRN Pink Collagen Volume Multi Balm Stick ($19.90)
 - Differin Acne Retinoid Treatment Gel, 0.1% Adapalene, 45g Pump ($23.97)
-- CeraVe Moisturizing Cream, Face & Body Moisturizer for Dry Skin, 19oz ()
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
