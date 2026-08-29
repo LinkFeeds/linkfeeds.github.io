@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- La Roche-Posay Toleriane Double Repair Face Moisturizer ($24.99)
 - La Roche-Posay Toleriane Double Repair UV SPF 30 Face Moisturizer, 2.5oz ($24.99)
 - La Roche-Posay Toleriane Purifying Foaming Facial Cleanser with Niacinamide ($19.99)
 - Neutrogena Beach Defense Sunscreen Spray SPF 70 Broad Spectrum UVA UVB Protection Lightweight Water Resistant up to 80 Minutes Beach-Strength Sun Protection for Whole Family ($8.99)
@@ -10,7 +11,6 @@
 - Mario Badescu Drying Lotion ($15.30)
 - EltaMD UV Clear Face Sunscreen SPF ($45.00)
 - grace & stella Award Winning Eye Patches for Puffy Eyes ($23.95)
-- medicube PDRN Pink Collagen Volume Multi Balm Stick ($19.90)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
