@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer
 - Dermasuri Exfoliating Body Scrubber Glove, Exfoliating Glove, Black (1 Pk) ($14.99)
 - Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy, 3 Fl Oz ($13.97)
 - Vanicream Gentle Facial Cleanser with Pump Dispenser
@@ -10,7 +11,6 @@
 - La Roche-Posay Toleriane Double Repair UV SPF 30 Face Moisturizer, 2.5oz ($24.99)
 - La Roche-Posay Toleriane Purifying Foaming Facial Cleanser with Niacinamide ($19.99)
 - Neutrogena Beach Defense Sunscreen Spray SPF 70 Broad Spectrum UVA UVB Protection Lightweight Water Resistant up to 80 Minutes Beach-Strength Sun Protection for Whole Family ($8.99)
-- La Roche-Posay Toleriane Hydrating Gentle Facial Cleanser, 13.52oz ($19.99)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
