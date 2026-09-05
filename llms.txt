@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- CeraVe Hydrating Cleanser with Hyaluronic Acid, Face Wash for Dry Skin,16oz
 - Mario Badescu Drying Lotion ($18.00)
 - The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides) ($9.90)
 - Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz ($21.60)
@@ -10,7 +11,6 @@
 - Dermasuri Exfoliating Body Scrubber Glove, Exfoliating Glove, Black (1 Pk) ($14.99)
 - Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy, 3 Fl Oz ($13.97)
 - Vanicream Gentle Facial Cleanser with Pump Dispenser
-- La Roche-Posay Toleriane Double Repair Face Moisturizer ($24.99)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
