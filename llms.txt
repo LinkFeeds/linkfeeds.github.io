@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Vanicream Gentle Facial Cleaner with Pump Dispenser
 - CeraVe Hydrating Cleanser with Hyaluronic Acid, Face Wash for Dry Skin,16oz
 - Mario Badescu Drying Lotion ($18.00)
 - The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides) ($9.90)
@@ -10,7 +11,6 @@
 - Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer
 - Dermasuri Exfoliating Body Scrubber Glove, Exfoliating Glove, Black (1 Pk) ($14.99)
 - Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy, 3 Fl Oz ($13.97)
-- Vanicream Gentle Facial Cleanser with Pump Dispenser
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
