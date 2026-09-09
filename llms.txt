@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- La Roche-Posay Toleriane Hydrating Gentle Facial Cleanser, with Niacinamide
 - CeraVe Foaming Facial Cleanser, Face Wash for Oily Skin, 16fl oz ($15.97)
 - medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care
 - Anua PDRN Hyaluronic Acid 100 Moisturizing Cream ($21.60)
@@ -10,7 +11,6 @@
 - Vanicream Gentle Facial Cleaner with Pump Dispenser
 - CeraVe Hydrating Cleanser with Hyaluronic Acid, Face Wash for Dry Skin,16oz
 - Mario Badescu Drying Lotion ($18.00)
-- The Ordinary Hyaluronic Acid 2% + B5 (with Ceramides) ($9.90)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
