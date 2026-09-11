@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Vanicream Daily Facial Moisturizer
 - La Roche-Posay Toleriane Double Repair UV SPF 30 Face Moisturizer
 - La Roche-Posay Toleriane Hydrating Gentle Facial Cleanser, with Niacinamide
 - CeraVe Foaming Facial Cleanser, Face Wash for Oily Skin, 16fl oz ($15.97)
@@ -10,7 +11,6 @@
 - Anua PDRN Hyaluronic Acid 100 Moisturizing Cream ($21.60)
 - medicube Jelly Cream with Collagen & Niacinamide, 1.69 fl.oz ($14.90)
 - Vanicream Gentle Facial Cleaner with Pump Dispenser
-- CeraVe Hydrating Cleanser with Hyaluronic Acid, Face Wash for Dry Skin,16oz
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
