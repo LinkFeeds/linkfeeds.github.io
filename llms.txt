@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- La Roche-Posay Toleriane Purifying Foaming Facial Cleanser with Niacinamide ($19.99)
 - Vanicream Daily Facial Moisturizer
 - La Roche-Posay Toleriane Double Repair UV SPF 30 Face Moisturizer
 - La Roche-Posay Toleriane Hydrating Gentle Facial Cleanser, with Niacinamide
@@ -10,7 +11,6 @@
 - medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care
 - Anua PDRN Hyaluronic Acid 100 Moisturizing Cream ($21.60)
 - medicube Jelly Cream with Collagen & Niacinamide, 1.69 fl.oz ($14.90)
-- Vanicream Gentle Facial Cleaner with Pump Dispenser
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
