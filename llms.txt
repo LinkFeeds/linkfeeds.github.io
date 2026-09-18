@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- La Roche-Posay Effaclar Clarifying Solution Salicylic Acid Toner, 6.7oz
 - La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face in 5 shades
 - Vanicream Daily Facial Moisturizer With Ceramides and Hyaluronic Acid - Formulated Without Common Irritants for Those with Sensitive Skin
 - medicube Jelly Cream with Collagen & Niacinamide, 3.71 fl.oz ($19.98)
@@ -10,7 +11,6 @@
 - Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer
 - Mario Badescu Drying Lotion ($18.00)
 - La Roche-Posay Toleriane Purifying Foaming Facial Cleanser with Niacinamide ($19.99)
-- Vanicream Daily Facial Moisturizer
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
