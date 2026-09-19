@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, 4EA ($19.00)
 - La Roche-Posay Effaclar Clarifying Solution Salicylic Acid Toner, 6.7oz
 - La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face in 5 shades
 - Vanicream Daily Facial Moisturizer With Ceramides and Hyaluronic Acid - Formulated Without Common Irritants for Those with Sensitive Skin
@@ -10,7 +11,6 @@
 - ANUA PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz ($21.60)
 - Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer
 - Mario Badescu Drying Lotion ($18.00)
-- La Roche-Posay Toleriane Purifying Foaming Facial Cleanser with Niacinamide ($19.99)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
