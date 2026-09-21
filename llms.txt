@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- La Roche-Posay Effaclar Medicated Acne Face Wash with 2% Salicylic Acid ($14.99)
 - Mario Badescu Drying Lotion
 - La Roche-Posay Toleriane Double Repair Face Moisturizer, 3.38oz ($19.49)
 - medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, 4EA ($19.00)
@@ -10,7 +11,6 @@
 - La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face in 5 shades
 - Vanicream Daily Facial Moisturizer With Ceramides and Hyaluronic Acid - Formulated Without Common Irritants for Those with Sensitive Skin
 - medicube Jelly Cream with Collagen & Niacinamide, 3.71 fl.oz ($19.98)
-- ANUA PDRN Hyaluronic Acid 100 Moisturizing Cream, 2.02 fl oz ($21.60)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
