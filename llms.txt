@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 75 Ct ($22.90)
 - La Roche-Posay Toleriane Purifying Foaming Facial Cleanser with Niacinamide ($14.99)
 - Differin Acne Retinoid Treatment Gel, 0.1% Adapalene, 15g Tube ($13.48)
 - Vanicream Gentle Facial Cleaner with Pump Dispenser ($9.97)
@@ -10,7 +11,6 @@
 - grace & stella Award Winning Eye Patches for Puffy Eyes - Birthday Gifts for Women - Under Eye Mask for Dark Circles and Undereye Bags - Gifts for Mom - Vegan Cruelty-Free Self Care (24 Pairs
 - La Roche-Posay Cicaplast Balm B5, Barrier Repair Cream for Dry Skin
 - La Roche-Posay Effaclar Medicated Acne Face Wash with 2% Salicylic Acid ($14.99)
-- La Roche-Posay Toleriane Double Repair Face Moisturizer, 3.38oz ($19.49)
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
