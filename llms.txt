@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, 4EA
 - Mario Badescu Drying Lotion ($12.60)
 - medicube Jelly Cream with Collagen & Niacinamide, 3.71 fl.oz ($19.98)
 - Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 75 Ct ($22.90)
@@ -10,7 +11,6 @@
 - Differin Acne Retinoid Treatment Gel, 0.1% Adapalene, 15g Tube ($13.48)
 - Vanicream Gentle Facial Cleaner with Pump Dispenser ($9.97)
 - grace & stella Award Winning Eye Patches for Puffy Eyes - Birthday Gifts for Women - Under Eye Mask for Dark Circles and Undereye Bags - Gifts for Mom - Vegan Cruelty-Free Self Care (24 Pairs
-- La Roche-Posay Cicaplast Balm B5, Barrier Repair Cream for Dry Skin
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
