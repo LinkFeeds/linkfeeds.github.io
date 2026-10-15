@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 3.71fl.oz
 - medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate
 - medicube Wrapping Mask Collagen - Overnight Peel Off Facial Mask
 - La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face
@@ -10,7 +11,6 @@
 - Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz
 - LANEIGE Lip Sleeping Mask: Nourish
 - Illiyoon Ceramide Ato Concentrate Cream
-- LANEIGE Lip Sleeping Mask
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
