@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer
 - medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 1.69fl.oz
 - medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 3.71fl.oz
 - medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate
@@ -10,7 +11,6 @@
 - La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face
 - medicube Hydrogel Eye Patches with PDRN, Caffeine & Collagen (60 Counts)
 - Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz
-- LANEIGE Lip Sleeping Mask: Nourish
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
