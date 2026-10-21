@@ -3,9 +3,9 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- LANEIGE Lip Glowy Balm: Sheer Tinted Lip Treatment Balm Tube with Shea & Murumuru Butters for Hydrating, Moisturizing, Glossy, Non-Sticky Shine, Berry
 - medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
 - medicube Jelly Cream with Collagen & Niacinamide, 3.71 fl.oz
-- Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer
 - medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 1.69fl.oz
 - medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 3.71fl.oz
 - medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate
@@ -16,4 +16,4 @@
 - Landing page: https://linkfeeds.github.io/stealfeed/
 - TikTok: https://www.tiktok.com/@stealfeed
 - Instagram: https://www.instagram.com/steal.feed/
-- YouTube: https://www.youtube.com/@StealFeed
+- YouTube: https://www.youtube.com/@Steal.Feed.Offical
