@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- MEDITHERAPY Retinal Skin Booster Serum
 - LANEIGE Lip Glowy Balm: Sheer Tinted Lip Treatment Balm Tube with Shea & Murumuru Butters for Hydrating, Moisturizing, Glossy, Non-Sticky Shine, Berry
 - medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
 - medicube Jelly Cream with Collagen & Niacinamide, 3.71 fl.oz
@@ -10,7 +11,6 @@
 - medicube Collagen Jelly Cream, Moisturizing Cream for Plump Skin, 3.71fl.oz
 - medicube Jelly Gel Mask with Salmon DNA PDRN Pink Collagen, Plump & Hydrate
 - medicube Wrapping Mask Collagen - Overnight Peel Off Facial Mask
-- La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
