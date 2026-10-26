@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy,  3 Fl Oz
 - Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes
 - medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
 - Anua PDRN Collagen Glow Facial Serum Spray, 3.38 fl oz
@@ -10,7 +11,6 @@
 - MEDITHERAPY Retinal Skin Booster Serum
 - LANEIGE Lip Glowy Balm: Sheer Tinted Lip Treatment Balm Tube with Shea & Murumuru Butters for Hydrating, Moisturizing, Glossy, Non-Sticky Shine, Berry
 - medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
-- medicube Jelly Cream with Collagen & Niacinamide, 3.71 fl.oz
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
