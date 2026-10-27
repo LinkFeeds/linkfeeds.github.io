@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Aquaphor Healing Ointment
 - Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy,  3 Fl Oz
 - Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes
 - medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
@@ -10,7 +11,6 @@
 - EQQUALBERRY Vitamin Illuminating Serum
 - MEDITHERAPY Retinal Skin Booster Serum
 - LANEIGE Lip Glowy Balm: Sheer Tinted Lip Treatment Balm Tube with Shea & Murumuru Butters for Hydrating, Moisturizing, Glossy, Non-Sticky Shine, Berry
-- medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
