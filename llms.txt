@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Vanicream Gentle Facial Cleaner, pH-Balanced Face Wash, 8 Fl Oz
 - Blue Lizard Kids Mineral SPF 50 Sunscreen Stick
 - essence
 - LANEIGE Lip Sleeping Mask: Hydrating & Nourishing Korean Overnight Lip Treatment Mask with Shea Butter, Vitamin C & Murumuru, Antioxidants For Flaky, Dry Lips
@@ -10,7 +11,6 @@
 - Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy,  3 Fl Oz
 - Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes
 - medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
-- Anua PDRN Collagen Glow Facial Serum Spray, 3.38 fl oz
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
