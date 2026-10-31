@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- CeraVe Night Cream, Facial Moisturizer with Peptides & Niacinamide, 1.7oz
 - Blue Lizard Kids Mineral SPF 50 Sunscreen Stick
 - Vanicream Gentle Facial Cleaner, pH-Balanced Face Wash, 8 Fl Oz
 - essence
@@ -10,7 +11,6 @@
 - Aquaphor Healing Ointment
 - Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy,  3 Fl Oz
 - Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes
-- medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
