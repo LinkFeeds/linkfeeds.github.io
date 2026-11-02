@@ -3,14 +3,14 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz
+- La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face
+- Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid
 - CeraVe Night Cream, Facial Moisturizer with Peptides & Niacinamide, 1.7oz
 - Blue Lizard Kids Mineral SPF 50 Sunscreen Stick
 - Vanicream Gentle Facial Cleaner, pH-Balanced Face Wash, 8 Fl Oz
 - essence
 - LANEIGE Lip Sleeping Mask: Hydrating & Nourishing Korean Overnight Lip Treatment Mask with Shea Butter, Vitamin C & Murumuru, Antioxidants For Flaky, Dry Lips
-- Aquaphor Healing Ointment
-- Vanicream Daily Facial Moisturizer, Lightweight, Non-Greasy,  3 Fl Oz
-- Mighty Patch Original from Hero Cosmetics - Hydrocolloid Acne Pimple Patch for Zits and Blemishes
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
