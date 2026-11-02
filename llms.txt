@@ -3,6 +3,7 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care
 - Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz
 - La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face
 - Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid
@@ -10,7 +11,6 @@
 - Blue Lizard Kids Mineral SPF 50 Sunscreen Stick
 - Vanicream Gentle Facial Cleaner, pH-Balanced Face Wash, 8 Fl Oz
 - essence
-- LANEIGE Lip Sleeping Mask: Hydrating & Nourishing Korean Overnight Lip Treatment Mask with Shea Butter, Vitamin C & Murumuru, Antioxidants For Flaky, Dry Lips
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
