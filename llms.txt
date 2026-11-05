@@ -3,14 +3,12 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- CeraVe Moisturizing Cream
 - The Ordinary Glycolic Acid 7% Exfoliating Toner
 - medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care
-- Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz
-- La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face
 - Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid
-- CeraVe Night Cream, Facial Moisturizer with Peptides & Niacinamide, 1.7oz
-- Blue Lizard Kids Mineral SPF 50 Sunscreen Stick
-- Vanicream Gentle Facial Cleaner, pH-Balanced Face Wash, 8 Fl Oz
+- La Roche-Posay Anthelios Mineral Light Fluid Sunscreen for Face
+- Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum, 1.01 fl oz
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
