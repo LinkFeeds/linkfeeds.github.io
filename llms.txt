@@ -3,10 +3,10 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
 - MEDITHERAPY Retinal Skin Booster Serum
 - CeraVe Moisturizing Cream
 - The Ordinary Glycolic Acid 7% Exfoliating Toner
-- medicube Toner Pads Zero Pore Pad 2.0 for Exfoliation and Pore Care
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
