@@ -3,11 +3,11 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
 - EQQUALBERRY Vitamin Illuminating Serum
 - Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid
 - medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
 - MEDITHERAPY Retinal Skin Booster Serum
-- CeraVe Moisturizing Cream
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
