@@ -7,7 +7,6 @@
 - EQQUALBERRY Vitamin Illuminating Serum
 - Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid
 - medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
-- MEDITHERAPY Retinal Skin Booster Serum
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
