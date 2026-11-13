@@ -3,10 +3,10 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- CeraVe Foaming Facial Cleanser, Gentle Cleanser for Oily Skin, 16fl oz
 - medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
 - EQQUALBERRY Vitamin Illuminating Serum
 - Paula's Choice SKIN PERFECTING 2% BHA Liquid Exfoliant with Salicylic Acid
-- medicube PDRN Pink Peptide Serum with Salmon DNA, Firmer, Even-Looking Skin
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
