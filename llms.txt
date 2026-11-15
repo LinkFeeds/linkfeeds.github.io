@@ -3,10 +3,10 @@
 > StealFeed (by Zora) curates affordable, effective skincare finds with honest, budget-first picks. As an Amazon Associate we earn from qualifying purchases.
 
 ## Latest skincare finds
+- DOVE MEN + CARE Body and Face Wash, Refreshing Extra Fresh for Men, 30 oz
 - Aquaphor Healing Ointment
 - CeraVe Foaming Facial Cleanser, Gentle Cleanser for Oily Skin, 16fl oz
 - medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
-- EQQUALBERRY Vitamin Illuminating Serum
 
 ## Links
 - Landing page: https://linkfeeds.github.io/stealfeed/
